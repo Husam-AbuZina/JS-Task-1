@@ -1,0 +1,11 @@
+.demo {
+    background-color: green;
+    height: 300px;
+    width: 300px;
+}
+
+.vip {
+    background-color: rgb(0, 204, 177);
+    height: 300px;
+    width: 300px;
+}
